@@ -21,7 +21,10 @@ Python · PostgreSQL · FastAPI · Streamlit · MCP · LLM Integration · Git ·
 An enterprise AI governance and technical assurance platform covering AI inventory, governance, assurance and continuous monitoring.
 
 **Dynamic AI Fairness & Bias Testing**  
-A technical assurance capability focused on risk-based fairness and bias evaluation for AI systems.
+A technical assurance capability focused on dynamic risk-based fairness and bias evaluation for AI systems.
+
+**Clinical AI Assurance**
+A technical assurance project focused on evaluating AI used in clinical contexts, with emphasis on risk-based assurance, evaluation evidence and traceability.
 
 Substantive project repositories are maintained privately to protect original implementation and methodology.
 
